@@ -4,7 +4,7 @@ import random
 
 from flax.training.common_utils import shard_prng_key
 
-from dalle_mini_toy.util import load_dalle_model, load_vqgan_model, load_dalle_processor
+from dalle_mini_inference_example.util import load_dalle_model, load_vqgan_model, load_dalle_processor
 
 from flax.jax_utils import replicate
 import jax
