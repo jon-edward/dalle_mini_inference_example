@@ -1,5 +1,5 @@
 
-from dalle_mini_toy import infer_images
+from dalle_mini_inference_example import infer_images
 
 import os
 from pathlib import Path
